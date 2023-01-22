@@ -1,1 +1,1 @@
-# SkillFactory_D1
+ДЗ к модулю D1. Знакомство с Django
